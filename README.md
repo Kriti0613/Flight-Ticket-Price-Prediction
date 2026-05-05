@@ -9,7 +9,7 @@ The dataset requires you to make predictions on the price of a flight ticket giv
 **test.csv** - The test set for which the target column is hidden 
 
 **sample_submission.csv** - A sample submission file in the correct format 
-*Access the dataset at: https://drive.google.com/drive/folders/1KRrYRQ7YLTQ4p9K7qCzNvew5HeSEkEBx?usp=drive_link*
+- *Access the dataset at: https://drive.google.com/drive/folders/1KRrYRQ7YLTQ4p9K7qCzNvew5HeSEkEBx?usp=drive_link*
 
 
 ## Column Description
